@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Test extension",
 	"description": "Test",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"license": [
 		"This field, or custom_license, is required for listed versions."
 	],
@@ -11,7 +11,7 @@
 	],
 	"browser_specific_settings": {
 		"gecko": {
-			"id": "addon@example.com",
+			"id": "tct1234@protonmail.com",
 			"strict_min_version": "79.0"
 		}
 	},
